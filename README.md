@@ -1,2 +1,10 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+
+# 測試中文
+人生短短幾個秋　不醉不罷休 
+東邊我的美人哪　西邊黃河流 
+來呀來個酒啊　不醉不罷休 
+愁情煩事別放心頭
